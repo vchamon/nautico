@@ -1,0 +1,13 @@
+{
+  "name": "nautico",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "qs": "^6.11.2"
+  }
+}

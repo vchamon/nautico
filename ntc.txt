@@ -1,0 +1,27 @@
+http://sociocnsl.ddns.net:8080/qualityweb.exe?page=gravar_reserva&is=00012155&dep=&idReserva=20230701000200020000
+Request Method:
+GET
+Status Code:
+200 OK
+Remote Address:
+179.220.138.177:8080
+Referrer Policy:
+strict-origin-when-cross-origin
+
+http://sociocnsl.ddns.net:8080/qualityweb.exe?page=gravar_reserva&is=00012173&dep=&idReserva=20230607000200010000
+http://sociocnsl.ddns.net:8080/qualityweb.exe?page=cancelar_reserva&is=00012155&dep=&idReserva=20230606000200010000
+
+http://sociocnsl.ddns.net:8080/qualityweb.exe?page=gravar_reserva&is=000121780&dep=&idReserva=20230606000200010000
+
+http://sociocnsl.ddns.net:8080/qualityweb.exe?page=cancelar_reserva&is=00012162&dep=&idReserva=20230531000200010000
+
+20230606000200010000
+20230530 000200010000
+
+
+
+20230530 000200020000
+20230531 000200020000
+20230601 000200020000
+
+20230701000200010000
